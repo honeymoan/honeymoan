@@ -1,6 +1,6 @@
 # 🥰 Hiya, I'm Brenno!
 
-- 🏳‍🌈 I'm a queer Backend Java Developer ☕.
+- 🏳‍🌈 I'm a queer Backend Java Developer ☕, INFP-T 🤗.
 - 💻 Currently working remotly at Simplus, a 1WS Company from Goiânia, Goiás.
 - 📧 You can reach me at dev.whiteflag@gmail.com.
 - 👩‍💻 I speak mainly in Java, focused on EE/MP.
