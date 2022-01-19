@@ -1,7 +1,7 @@
 # 🥰 Hiya, I'm Brenno!
 
 - 🏳‍🌈 I'm a LGBTQ+ Backend Java Developer ☕, INFP-T 🤗.
-- 💻 Currently working remotly at TOTVS from Goiânia, Goiás.
+- 💻 Currently working hybrid at TOTVS from Goiânia, Goiás.
 - 📧 You can reach me at dev.whiteflag@gmail.com.
 - 👩‍💻 I speak mainly in Java, focused on EE/MP.
 - 🎵 My favorite artist is JPEGMafia!
