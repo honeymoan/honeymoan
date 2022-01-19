@@ -1,7 +1,7 @@
 # 🥰 Hiya, I'm Brenno!
 
-- 🏳‍🌈 I'm a queer Backend Java Developer ☕, INFP-T 🤗.
-- 💻 Currently working remotly at Simplus, a 1WS Company from Goiânia, Goiás.
+- 🏳‍🌈 I'm a LGBTQ+ Backend Java Developer ☕, INFP-T 🤗.
+- 💻 Currently working remotly at TOTVS from Goiânia, Goiás.
 - 📧 You can reach me at dev.whiteflag@gmail.com.
 - 👩‍💻 I speak mainly in Java, focused on EE/MP.
 - 🎵 My favorite artist is JPEGMafia!
@@ -31,10 +31,11 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ## 💽 Projects
-- 👩‍💻 [OpenDev](https://github.com/hrzndev/opendev)
-- 📚 [quarkus-dynamo-persistence (Archived)](https://github.com/hrzndev/quarkus-dynamo-persistence)  
-- 🕹 [Fork of Pycod](https://github.com/dev-whiteflag/pycod)  
-- 🕹 [Fork of CoD Maya Tools](https://github.com/dev-whiteflag/codmayatools)  
+- 👩‍💻 [onboard](https://github.com/hrzndev/onboard-core) (Personal project using a type of Hexagonal Architecture)
+- 🛠️ [mslib](https://github.com/hrzndev/mslib) (Quarkus library for usage in personal projects)
+- 📚 [quarkus-dynamo-persistence (Archived)](https://github.com/hrzndev/quarkus-dynamo-persistence) (Quarkus plugin using DynamoDB for Dev QoL)  
+- 🕹 [Fork of Pycod](https://github.com/dev-whiteflag/pycod) ("ported" to Python 3)
+- 🕹 [Fork of CoD Maya Tools](https://github.com/dev-whiteflag/codmayatools) ("ported" to Python 3)
 
 ## 👋 Connect with me!
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brennofagundes/)
