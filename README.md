@@ -32,7 +32,7 @@
 
 ## 💽 Projects
 - 👩‍💻 [onboard](https://github.com/hrzndev/onboard-core) (Personal project using a type of Hexagonal Architecture)
-- 🛠️ [mslib](https://github.com/hrzndev/mslib) (Quarkus library for usage in personal projects)
+- 🛠️ [valkyrie](https://github.com/hrzndev/valkyrie) (Quarkus library for usage in personal projects)
 - 📚 [quarkus-dynamo-persistence (Archived)](https://github.com/hrzndev/quarkus-dynamo-persistence) (Quarkus plugin using DynamoDB for Dev QoL)  
 - 🕹 [Fork of Pycod](https://github.com/dev-whiteflag/pycod) ("ported" to Python 3)
 - 🕹 [Fork of CoD Maya Tools](https://github.com/dev-whiteflag/codmayatools) ("ported" to Python 3)
