@@ -31,7 +31,7 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ## 💽 Projects
-- 👩‍💻 [onboard](https://github.com/hrzndev/onboard-core) (Personal project using a type of Hexagonal Architecture)
+- 👩‍💻 [$devenv](https://github.com/hrzndev/devenv-core) (Personal project using a type of Hexagonal Architecture)
 - 🛠️ [valkyrie](https://github.com/hrzndev/valkyrie) (Quarkus library for usage in personal projects)
 - 📚 [quarkus-dynamo-persistence (Archived)](https://github.com/hrzndev/quarkus-dynamo-persistence) (Quarkus plugin using DynamoDB for Dev QoL)  
 - 🕹 [Fork of Pycod](https://github.com/dev-whiteflag/pycod) ("ported" to Python 3)
