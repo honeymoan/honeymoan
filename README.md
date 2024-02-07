@@ -1,10 +1,10 @@
-# 🥰 Hiya, I'm Brenno!
+# 🥰 Hiya, I'm Dani!
 
 - 🏳‍🌈 I'm a LGBTQ+ Backend Java Developer ☕, INFP-T 🤗.
 - 💻 Currently working hybrid at TOTVS from Goiânia, Goiás.
 - 📧 You can reach me at dev.whiteflag@gmail.com.
 - 👩‍💻 I speak mainly in Java, focused on EE/MP.
-- 🎵 My favorite artist is JPEGMafia!
+- 🎵 My favorite artist is MFDOOM!
 
 ## 🧰 Tech Stacks and Tools
 ### 💼 Professional Tech Stack
