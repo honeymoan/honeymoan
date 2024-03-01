@@ -40,3 +40,5 @@
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brennofagundes/)
 [![StackOverflow Profile](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9195528/brenno-fagundes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.whiteflag@gmail.com)
+
+ZXUgdGUgYW1vIEx1Y2E=
